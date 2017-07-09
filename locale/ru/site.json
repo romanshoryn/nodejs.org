@@ -1,0 +1,174 @@
+{
+    "title": "Node.js",
+    "author": "Фонд Node.js",
+    "url": "https://nodejs.org/en/",
+    "locale": "ru",
+    "scrollToTop": "Вверх",
+    "reportNodeIssue": "Проблемы в Node.js",
+    "reportWebsiteIssue": "Проблемы в веб-сайте",
+    "getHelpIssue": "Помощь",
+    "by": "by",
+    "all-downloads": "Все варинты загрузок",
+    "nightly": "Ночные сборки",
+    "chakracore-nightly": "Ночные сборки Node-ChakraCore",
+    "feeds": [
+        {
+            "link": "feed/blog.xml",
+            "text": "Блог Node.js"
+        },
+        {
+            "link": "feed/releases.xml",
+            "text": "Блог Node.js: Релизы"
+        },
+        {
+            "link": "feed/vulnerability.xml",
+            "text": "Блог Node.js: Отчёты об уязвимостях"
+        },
+        {
+            "link": "feed/tsc-minutes.xml",
+            "text": "Протоколы заседаний Node.js TSC"
+        }
+    ],
+    "home": { "text": "Главная" },
+    "about": {
+        "link": "about",
+        "text": "О проекте",
+        "governance": {
+            "link": "about/governance",
+            "text": "Руководство"
+        },
+        "workinggroups": {
+            "link": "about/working-groups",
+            "text": "Рабочие группы"
+        },
+        "releases": {
+            "link": "about/releases",
+            "text": "Релизы"
+        },
+        "resources": {
+            "link": "about/resources",
+            "text": "Ресурсы"
+        },
+        "trademark": {
+            "link": "about/trademark",
+            "text": "Товарный знак"
+        },
+        "privacy": {
+            "link": "about/privacy",
+            "text": "Политика приватности"
+        }
+    },
+    "download": {
+        "link": "download",
+        "text": "Скачать",
+        "releases": {
+            "link": "download/releases",
+            "text": "Предыдущие релизы"
+        },
+        "package-manager": {
+            "link": "download/package-manager",
+            "text": "Установка Node.js с помощью менеджера пакетов"
+        },
+        "shasums":{
+          "link": "SHASUMS256.txt.asc",
+          "text": "Подписанные SHASUMS для файлов релизов"
+        }
+    },
+    "docs": {
+        "link": "docs",
+        "text": "Документация",
+        "es6": {
+            "link": "docs/es6",
+            "text": "ES6 и за его пределами "
+        },
+        "inspector": {
+            "link": "docs/inspector",
+            "text": "Инспектор"
+        },
+        "api-lts": {
+            "link": "/dist/latest-%ver-major%/docs/api",
+            "subtext": "LTS",
+            "text": "%ver% API"
+        },
+        "api-current": {
+            "link": "/dist/latest-%ver-major%/docs/api",
+            "text": "%ver% API"
+        },
+        "guides": {
+            "link": "docs/guides",
+            "text": "Руководство"
+        }
+    },
+    "foundation": {
+        "link": "foundation",
+        "text": "Фонд",
+        "casestudies": {
+            "link": "foundation/case-studies",
+            "text": "Ресурсы"
+        },
+        "members": {
+            "link": "foundation/members",
+            "text": "Участники"
+        },
+        "board": {
+            "link": "foundation/board",
+            "text": "Совет"
+        },
+        "tsc": {
+            "link": "foundation/tsc",
+            "text": "Техническое управление"
+        },
+        "itn": {
+             "link": "foundation/in-the-news",
+             "text": "В новостях"
+        },
+        "announce": {
+            "link": "foundation/announcements",
+            "text": "Анонсы"
+        },
+        "education": {
+            "link": "foundation/education",
+            "text": "Образовательные инициативы"
+        },
+        "outreachy": {
+            "link": "foundation/outreachy",
+            "text": "Outreachy + Node.js"
+        }
+    },
+    "getinvolved": {
+        "link": "get-involved",
+        "text": "Присоединяйся",
+        "code-and-learn": {
+            "link": "get-involved/code-and-learn",
+            "text": "Программируй и учись"
+        },
+        "contribute": {
+            "link": "get-involved/contribute",
+            "text": "Делай вклад"
+        },
+        "development": {
+            "link": "get-involved/development",
+            "text": "Разработка"
+        },
+        "events": {
+          "link": "get-involved/events",
+          "text": "События"
+        },
+        "conduct": {
+            "link": "https://github.com/nodejs/node/blob/master/CONTRIBUTING.md#code-of-conduct",
+            "text": "Правила"
+        }
+    },
+    "security"   : { "link": "security",        "text": "Безопасность" },
+    "blog"       : { "link": "blog",            "text": "Новости" },
+
+    "releases": {
+        "title": "Release History",
+        "downloads": "Загрузки"
+    },
+    "links": {
+        "pages": {
+            "changelog": "Список изменений"
+        }
+    }
+}
